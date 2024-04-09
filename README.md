@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/mrahmancad/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[your-youtube-URL](https://www.youtube.com/@BDWebTutor)">
+  <a href="https://www.youtube.com/@BDWebTutor">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="[your-twitter-URL](https://twitter.com/shamimsust)">
